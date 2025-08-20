@@ -1,0 +1,4 @@
+#Basic Syntax
+
+print("Namaskara!")
+
