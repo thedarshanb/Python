@@ -12,6 +12,9 @@ age_diff=abs(a-b) #uaing abs for absolute value
 
 print(f"{x} likes {y} their age difference is {age_diff}") # f-string 
 
+print(x + " likes " + y + ". Their age difference is " + str(age_diff))#using string concatenation
+
+
 
 
 
