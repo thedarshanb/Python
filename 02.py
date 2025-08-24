@@ -7,10 +7,11 @@ print(age)
 print(student)
 
 #Data Types & Type Check
-x=10
-y="Jhon"
-z=True
-f=20.0
+x=10     #Integer Data Type
+y="Jhon" #String Data Type
+z=True   #Boolean Data Type
+f=20.0   #Floating Point Number
+
 print(type(x))
 print(type(y))
 print(type(z))
