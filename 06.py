@@ -25,12 +25,19 @@ print(i)   # Output: ['Fish', 'Chicken', 'Mutton']
 i.insert(1,"Veg")
 print(i)   # output: ['Fish', 'Veg', 'Chicken', 'Mutton']
 
-
 i[0] = "Fish Fry" # output: ['Fish Fry', 'Veg', 'Chicken', 'Mutton']
+print(i)
+
+i.extend(["Chicken Curry","Mutton Curry"])
 print(i)
 
 i.clear() # output: []
 print(i)
+
+#copy
+a=[1,2,5,7]
+b=a.copy()
+print(b)   #output: [1, 2, 5, 7]
 
 
 #List Slicing
