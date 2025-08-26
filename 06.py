@@ -1,4 +1,4 @@
-"'List operations & Methods'"
+"'+++++++++++++++++++List operations & Methods++++++++++++++++++++++++++++++++'"
 
 #Lists
 
@@ -49,8 +49,6 @@ print(i2)      #output: ['b', 'c']
 
 print(i[1:3])  #output: ['b', 'c']
 
-
-"'++++++++++++++++++++++++Methods++++++++++++++++++++++++++++++'"
 
 #Finding length in list
 i=["Coffee","Milk","Sugar"]
