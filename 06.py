@@ -1,4 +1,4 @@
-"'+++++++++++++++++++List operations & Methods++++++++++++++++++++++++++++++++'"
+"'List operations & Methods'"
 
 #Lists
 
